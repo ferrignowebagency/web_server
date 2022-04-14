@@ -1,0 +1,130 @@
+PART 1 - TUTORIAL
+DONE - Install VUE and Libraries
+DONE - Set up the Libraries
+DONE - Create a component for the Menu
+DONE - Create a single page for Signup
+DONE - Create a single page for Login
+DONE - Create a single page for my dashboard
+DONE - Create a single page for my account
+Done - Configure the Vuex Store
+Done - Set Up Router Guards
+
+PART 2 - TUTORIAL
+
+DONE - Install virtual Environment, create and activate
+DONE - Install Django
+DONE - Install Django-rest-framework
+DONE - Install Django-cors-headers
+DONE - Install djoer
+DONE - Create Django Project
+DONE - Configure the Project
+DONE - Add Djoser to the URLs
+DONE - Initialize Database
+DONE - Create Superuser
+DONE - Run the development server
+DONE - make it possible to sign up from frontend
+DONE - make it possible to sign in from frontend
+DONE - make it possible to log out from frontend
+
+
+PART 3 - TUTORIAL
+
+DONE - implement a loading bar
+DONE - Create a Django app for the Leads
+DONE - Create database models for saving leads
+DONE - Serialize for the Leads
+DONE - View for the Leads
+DONE - Set up for the Leads
+DONE - Create page for showing the Leads
+DONE - Make it possible to add Leads
+
+
+PART 4 - TUTORIAL
+
+DONE - Add leads link in the Menu
+DONE - Hide Sign Up / Login buttons when authenticated
+DONE - Make it possible to view a lead 
+DONE - Make it possible to edit a lead
+DONE - Show toast when saving a lead
+DONE - Show toast when adding new lead
+
+PART 5 - TUTORIAL
+// Creation Agency
+
+DONE - Create Django App and Models
+DONE - Create Serializer and view
+DONE - Store your user info in vuex
+DONE - add team-id and name in vuex
+DONE - If u don't have team, send to create team page
+DONE - Create page for adding Agency
+DONE - Fix Login to implement Team (Vuex)
+
+PART 6 - TUTORIAL
+
+DONE - Update the lead models
+DONE - Make it possible to add members
+     - update the views.py in the team app
+     - update the serializer.py
+     - New page for team
+DONE - Make it possibile to add members
+
+PART 7 - TUTORIAL
+
+DONE - only owner can add members
+DONE - assign lead to a members
+DONE - update lead models
+DONE - update lead serializer
+DONE - override update function
+DONE - change the edit page
+DONE - show assignee in leads list
+DONE - assigne on detail page
+
+PART 8 - TUTORIAL
+
+DONE - show list of clients
+     - page for clients
+DONE - make it possibile add clients
+     - django app and model 
+     - serializer
+     - view
+     - URLs
+     - vue page for creating clients
+     - send information to server
+DONE - show list for clients
+     - get clients from server
+DONE - show list for clients
+     - get clients from server
+DONE - detail view of a client
+     - page for clients
+     - get clients from server
+DONE - edit client
+     - page for editing client
+     - get clients from server
+     - Send Updates to server
+
+PART 9 TUTORIAL
+
+DONE - Add notes to a client
+       - Database Models
+       - Serializer
+       - views
+       - Page for adding notes
+       - Send information to server
+DONE - Show notes on the detail page of a client
+Edit note 
+    - Page for editing note
+    - Send update to server
+Change information about users
+    - Endpoint for gettinf information
+    - Add edit page for users
+
+
+
+
+
+
+
+
+
+
+
